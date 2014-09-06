@@ -9,3 +9,10 @@
 Release
 Debug
 build
+
+*.pbxproj
+*.xcworkspacedata
+*.xccheckout
+*.xcscheme
+*.plist
+*.xcuserstate
